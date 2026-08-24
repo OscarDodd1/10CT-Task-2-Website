@@ -1,3 +1,5 @@
+# Identifying and Defining
+
 ## Mindmap
 ![Mindmap](Images/Mindmap.png)
 
@@ -11,8 +13,18 @@
 | App that teaches and informs people about the impacts of ai in an engaging way | The app will have a list of facts that inform the user, and a small quiz that has a lot of facts that people may not know so that they realise the impacts of AI. | Influence from AI | People who are unaware of the impact of AI |
 | App that tries to prevent unnecessary spending on things | users input the price of an item they wish to buy and calculates how many hours of work that would be and makes you wait  for that amount of time so that you can rethink if you really need it, it could work as a browser extension which automatically detects when payment buttons and locks them for an amount of time. | Overspending on unnecessary things | People who spend a lot of money |
 
+## Impact/Effort Matrix
+![Mindmap](Images/ImpactEffortMatrix.png)
+
+## SWOT Analysis - Charles McDonagh 
+![Mindmap](Images/SWOTplaceholder.png)
+
 **Reflect and Choose**  
 #### The climbing app helps people wanting to get into a sport is a good choice as it is very much doable within the time frame while also having a significant impact. The app would be intuitive and easy to make as well as being easy to build on (like weekly newsletter or a subscription service). The only problem with this app is that it would only be for specific who are wanting to get into climbing.
 
-## Impact/Effort Matrix
-![Mindmap](Images/ImpactEffortMatrix.png)
+## Requirements Outline
+#### Functional Requirements
+#### Non-functional Requirements
+
+# Researching and Planning
+## Explore Existing Ideas
