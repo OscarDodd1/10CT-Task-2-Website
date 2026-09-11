@@ -9,13 +9,14 @@ body{
 }
 
 h1{
-    color: green;
+    color: rgb(255, 255, 255);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
 
 nav{
-    background-color: rgb(255, 100, 44);
+    background-color: rgba(201, 201, 201, 0.3); /* Must be semi-transparent! */
+  backdrop-filter: blur(1px);                  /* Applies the blur */
 }
 
 nav ul{
@@ -24,6 +25,10 @@ nav ul{
     margin: 0;
 
     padding: 0;
+
+    text-align: left;
+
+    font-family: 'Montserrat';
 }
 
 nav li{
@@ -37,7 +42,7 @@ nav li{
 }
 
 nav a{
-    color: rgb(68, 136, 255);
+    color: rgb(255, 255, 255);
 
     text-decoration: none;
 }
