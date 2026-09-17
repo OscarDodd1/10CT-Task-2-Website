@@ -3,9 +3,11 @@ html{
 }
 
 body{
-    background-color: coral;
+    background-color: rgb(253, 253, 253);
     text-align: center;
     color: purple;
+    margin: 0;
+    padding: 0;
 }
 
 h1{
@@ -15,20 +17,9 @@ h1{
 }
 
 nav{
-    background-color: rgba(201, 201, 201, 0.3); /* Must be semi-transparent! */
-  backdrop-filter: blur(1px);                  /* Applies the blur */
-}
-
-nav ul{
-    list-style-type: none;
-
-    margin: 0;
-
-    padding: 0;
-
-    text-align: left;
-
-    font-family: 'Montserrat';
+    background-color: rgba(201, 201, 201, 0.3);
+    backdrop-filter: blur(1px);
+    height: 50px;
 }
 
 nav li{
@@ -38,67 +29,30 @@ nav li{
 
     padding-bottom: 5px;
 
+    padding-left: 10px;
+
     font-size: large;
+    
+    justify-content: space-evenly;
 }
 
 nav a{
     color: rgb(255, 255, 255);
 
     text-decoration: none;
+    justify-content: space-evenly;
 }
 
-.grid-container{
-    display: inline-grid;
-
-    grid-template-columns: 1fr, 1fr, 1fr;
-
-    background-color: azure;
-
-    padding: 10px;
+.navbar-right {
+    font-family:'Courier New', Courier, monospace;
 }
 
-.item{
-    background-color: azure;
-
-    border: 1px solid black;
-
-    padding: 20px;
-
-    justify-content: center;
-
-    align-content: center;
-
-    text-align: center;
-}
-
-.item2{
-    background-color: azure;
-
-    border: 1px solid black;
-
-    padding: 20px;
-
-    font-size: 30px;
-
-    justify-content: center;
-
-    align-content: center;
-
-    text-align: center;
-
-    grid-column: span 2;
-}
-
-.item3{
-    background-color: azure;
-
-    border: 1px solid black;
-
-    padding: 20px;
-
-    align-content: center;
-
-    text-align: center;
-
-    grid-column: span 3;
+.navbar-split {
+    background-color: rgba(201, 201, 201, 0.3);
+    backdrop-filter: blur(1px);
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 10px;
 }
