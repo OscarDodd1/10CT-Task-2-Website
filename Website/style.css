@@ -56,3 +56,35 @@ nav a{
     align-items: center;
     padding: 3px 10px;
 }
+
+.page-title {
+    color: #9CE29E;
+    -webkit-text-stroke: 4px #4F7052;
+    font-size: 70px;
+}
+
+.main {
+    padding-block-start: 20px;
+    padding-block-end: 20px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.search-bar {
+    max-width: 50%;
+    background: #EFF7FF;
+    padding: 13px 22px;
+    border-radius: 999px;
+    display: flex;
+    box-shadow: 10px;
+}
+
+.search-and-nav {
+    gap: 25px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
