@@ -24,7 +24,14 @@
 
 ## Requirements Outline
 #### Functional Requirements
+- Clear Navigation: An individual should easily be able to navigate through the website without being confused. For example using a sitemap so users can navigate efficiently.
+- Working pages: All pages should work, like the main page, information, gyms, holds, ect. The home page should show links to the other pages clearly.
+- Easy interaction: All buttons and navigation should work without struggle (Parts of a button could be behind an element). Learn more buttons should work and open to a page with more information. External links should work correctly too.
 #### Non-functional Requirements
+- Consistency: The layout, font, and colours should be consistent across every page.
+- Accessability: Images have alternative texts incase the image doesnt load. Text has enough contrast againts a background to be readable. Website can be navigated with just a keyboard.
+- Performance: The website should be optimised and run well.
+- Compatability: The website should run well on all devices and the layout can adapt between screen resolutions.
 
 # Researching and Planning
 ## Explore Existing Ideas
