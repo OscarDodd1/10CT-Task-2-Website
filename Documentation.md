@@ -46,7 +46,27 @@
 
 #### Climbing is also growing quickly which is unintentionaly bringing risks. About 95000 Australian adults took part in climbing in 2024, many of which are first time outdoor climbers who havent learned respectful climbing and may have made an small impact on the environment. This effects my project in many ways, I will keep my website to teaching indoor gym climbing so that the environment doesnt get affected, I will also talk about how climbing can support wellbeing.
 
+#### Sources: 
+- Australian Bureau of Statistics: https://www.abs.gov.au/statistics/health/health-conditions-and-risks/physical-activity/latest-release
+- Australian Institute of Health and Welfare: https://www.aihw.gov.au/reports-data/behaviours-risk-factors/physical-activity/overview
+- BMC Psychology, 2021: https://link.springer.com/article/10.1186/s40359-021-00627-1
+- Journal of Outdoor and Environmental Education: https://link.springer.com/article/10.1007/s42322-025-00239-y
+
 ## Primary Research
 
 ## UI/UX Design
 ![UI-UX design](Images/UI-UX.png)
+
+## Prototype
+#### https://www.figma.com/design/nv6w1uwmGmImVviuz3KgRz/Untitled?node-id=0-1&t=88j7X4a1WqlKzjVQ-1
+
+# Testing and Evaluating
+## Peer Evaluation
+
+## Evaluation of issues
+- Social: My website helps make climbing more welcoming for beginners. It uses simple language, explains how climbing is for everyone, and how expensive it is. However it only covers gyms near and around Sydney so any other place which isnt logo isnt mention in the website.
+- Ethical: My website doesnt collect any personal data. There are no accounts or sign up, or tracking, si users can look for information without giving data.
+- legal responsibilities/issues: Photos should have had reference to their creators due to copyright.
+
+## Project Evaluation
+#### The final product of my project meets all of my functional requirements and most of my non-functional requirements. The only non-function requirement that I did not meet was that the webstite could adapt to different screen sizes. The website works well and is readable on most desktop screen sizes, but struggles with mobile compatibilty as elements do not scale well on the small screen size. Because of the small screen size, many peices of text may not be readable and would be an issue. My website impacts the target market (individuals wanting to start bouldering/have already started and are wanting help), it helps them with information about the sport and the different aspects of it. My project management could have been better, a large amount of my project was done close to the due date leading to some unfinished parts of my website and documentation. If I gave myself more time I couldve added a working search bar or more pages.
