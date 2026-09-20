@@ -62,6 +62,10 @@
 
 # Testing and Evaluating
 ## Peer Evaluation
+#### Charles McDonagh
+The website generally accomplishes its social goals, it's simple easy to use design, and simplistic "start from 0" design opens up the hobby to a new generation. Design-wise the website is intuiative, and the design is generally visually pleasing. Overall a well done project that accomplsihes its goals.
+#### Benji Saunders
+The website is very clean and aesthetic, and it gives accurate information on a variety of climbing specific holds and gyms. Would be useful to use as a climber looking for gyms. Project is well done and has no obvious errors. 
 
 ## Evaluation of issues
 - Social: My website helps make climbing more welcoming for beginners. It uses simple language, explains how climbing is for everyone, and how expensive it is. However it only covers gyms near and around Sydney so any other place which isnt logo isnt mention in the website.
