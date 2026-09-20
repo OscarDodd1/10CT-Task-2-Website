@@ -35,3 +35,18 @@
 
 # Researching and Planning
 ## Explore Existing Ideas
+| websites / web application | Plus | Minus | Implication |
+| :---- | :---- | :---- | :---- |
+| **Dictionary.com** [https://www.dictionary.com/](https://www.dictionary.com/) | \-Quick links at the top of the home page \-Search bar to quickly find related topics \-Featured articles \-Trending words | \-Main page feels slightly cluttered | \-Quick links at the top of the page will be very useful for the users to get to whatever page they need fast. \-The search bar is also useful to find related topics without having to scroll through a bunch of pages. \-Featured articles to separate all the pages. |
+| **Coca Cola** [https://www.coca-cola.com/au/en](https://www.coca-cola.com/au/en) | \-Clean and simple footer | \-Main page feels a bit empty | \-The simple and clean footer can be implemented in my website |
+| **AllTrials** [https://www.alltrails.com/](https://www.alltrails.com/) | \-Appealing home page \-Easy to navigate \-Filters when searching \-Previews of trails to show what you should expect | \-The free version can't use offline maps, and better features need a paid plan | \-Difficulty labels on technique and hold pages. \-A working search with filters. \-Gym prices and locations change so a date of when this was last checked would be helpful. |
+
+## Secondary Research
+#### Many Australians arn't active anough, and rock climbing could help with this. Only about one in 5 adults aged 18 to 65 met the physical activity guidelines in 2022, according to the Australian Bureau of Statistics National Health Survey, and the Australian Institute of Health and Welfare reports that 76% of adults didnt meet the muscle strengthening guideline. Rock climbing could also support mental health. In a trial of 233 people with depression, bouldering improved participants confidence in their own abilities, did better exercise alone, and looked like it had the same effects as cognitive behavioral therapy. Although this was professionally run therapy for people with depression, so it doesn't show that climbing treats depression, it did show that climbing can benefit wellbeing.
+
+#### Climbing is also growing quickly which is unintentionaly bringing risks. About 95000 Australian adults took part in climbing in 2024, many of which are first time outdoor climbers who havent learned respectful climbing and may have made an small impact on the environment. This effects my project in many ways, I will keep my website to teaching indoor gym climbing so that the environment doesnt get affected, I will also talk about how climbing can support wellbeing.
+
+## Primary Research
+
+## UI/UX Design
+![UI-UX design](Images/UI-UX.png)
