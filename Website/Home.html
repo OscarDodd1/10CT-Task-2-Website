@@ -5,29 +5,26 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>ClimbPedia</title>
         <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
     </head>
     <body>
-        <header>
+        <header class="page-header">
             <nav class="navbar-split">
-                <div class="logo">
-                    <li><a href="Home.html"><b>ClimbPedia</b></a></li>
-                </div>
-                <ul class="narbar-right">
-                    <li><a href="Home.html"><b>Home</b></a></li>
-                </ul>
+                <a href="Home.html" class="top-logo"><b>ClimbPedia</b></a>
+                <input type="text" placeholder="Search..." class="top-search-bar">
             </nav>
         </header>
         <section>
             <div class="main">
                 <h1 class="page-title">Reach New Heights</h1>
                 <div class="search-and-nav">
-                    <label class="search-bar">
-                        <input type="text" placeholder="Search">
-                    </label>
+                    <input type="text" placeholder="Search..." class="search-bar">
                     <div class="nav-row">
-                        <button class="nav-button" type="button">Popular Gyms</button>
-                        <button class="nav-button" type="button">Technique</button>
-                        <button class="nav-button" type="button">Types of Holds</button>
+                        <a href="Home.html" class="nav-button"><b>Popular Gyms</b></a>
+                        <a href="Home.html" class="nav-button"><b>Technique</b></a>
+                        <a href="Home.html" class="nav-button"><b>Types of Holds</b></a>
                     </div>
                 </div>
                 <style>
@@ -35,12 +32,53 @@
                         background-image: url('WebsiteImages/BackgroundImage1.webp');
                         background-repeat: no-repeat;
                         background-attachment: fixed;
-                        background-size: 100% 100%;
+                        background-size: cover;
+                        background-position: center 150%;
                     }
                 </style>
             </div>
             <div class="things-of-the-week">
-                <h1>Things of the week</h1>
+                <div class="weekly-grid">
+                    <article class="thing-of-the-week">
+                        <div class="thing-of-the-week-info">
+                            <div class="thing-of-the-week-info-top">
+                                <h2 class="which-thing-of-the-week">Technique of the week</h2>
+                                <h3 class="thing-of-the-week-date">August 31, 2026</h3>
+                            </div>
+                            <h3 class="thing-of-the-week-name">Drop Knee</h3>
+                            <a href="Home.html" class="thing-of-the-week-button"><b>Learn More</b></a>
+                        </div>
+                        <img class="thing-of-the-week-image" src="WebsiteImages/Drop-Knee.jpg" alt="Drop Knee Image">
+                    </article>
+                    <article class="thing-of-the-week">
+                        <div class="thing-of-the-week-info">
+                            <div class="thing-of-the-week-info-top">
+                                <h2 class="which-thing-of-the-week">Hold of the week</h2>
+                                <h3 class="thing-of-the-week-date">August 31, 2026</h3>
+                            </div>
+                            <h3 class="thing-of-the-week-name">Pinch</h3>
+                            <a href="Home.html" class="thing-of-the-week-button"><b>Learn More</b></a>
+                        </div>
+                        <img class="thing-of-the-week-image" src="WebsiteImages/Pinch-Hold.jpg" alt="Drop Knee Image">
+                    </article>
+                </div>
+            </div>
+            <div class="featured-articles">
+                <h1 class="featured-articles-title">Featured Articles</h1>
+                <div class="featured-articles-grid">
+                    <a href="Home.html" class="featured-article">
+                        <h1 class="article-name">Technique</h1>
+                        <h1 class="emoji">📖</h1>
+                    </a>
+                    <a href="Home.html" class="featured-article">
+                        <h1 class="article-name">Types of Holds</h1>
+                        <h1 class="emoji">🪨</h1>
+                    </a>
+                    <a href="Home.html" class="featured-article">
+                        <h1 class="article-name">Gyms</h1>
+                        <h1 class="emoji">🧗‍♂️</h1>
+                    </a>
+                </div>
             </div>
         </section>
         <footer>
